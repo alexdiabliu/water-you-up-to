@@ -1,4 +1,4 @@
-# NASA Space Apps Hackathon Submission
+# NASA Space Apps Hackathon Submission 2023
 
 # Water Quality and Environmental Information App
 
@@ -28,5 +28,5 @@ The application fetches water quality data and presents it in an easy-to-underst
 # Environmental Insights:
 The app goes beyond water quality by providing facts about endangered species and environmental conditions specific to the user's location. This feature fosters awareness and promotes conservation efforts.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-Team Members: Joshua Yeung, Alexander Diab-Liu, Daniel Ramirez-Gaston  
+Team Members: Alexander Diab-Liu, Joshua Yeung, Daniel Ramirez-Gaston  
 October 07, 2023  
